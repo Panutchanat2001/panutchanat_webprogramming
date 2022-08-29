@@ -1,0 +1,14 @@
+.text-red{
+    color: #E00000;
+}
+.linkhover:hover{
+    color: #E00000;
+}
+@media(max-width: 576px) {
+    .hidemenu{
+        display: none;
+    }
+}
+/*  */
+padd
+/*  */

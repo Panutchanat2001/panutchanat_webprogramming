@@ -1,0 +1,45 @@
+.course{
+    width: 300px;
+    padding: 20px;
+    border: 1px solid blue;
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+.clear{
+    clear: both;
+}
+
+.container{
+    margin: 0 auto;
+    width: 1300px;
+    background-color: bisque;
+}
+
+.photo{
+    width: 150px;
+    height: 150px; ;
+    object-fit: cover;
+    float: left;
+    margin-right: 15px;
+    margin-bottom: 15px;
+}
+
+.para{
+    width: 500px;
+}
+
+.digital{
+    width: 600px;
+    border: 2px solid red;
+    margin-right: 25px;
+
+}
+.contrainnerflex{
+    display: flex;
+    justify-content: start;
+    flex-wrap: wrap;
+}
+
+
+
