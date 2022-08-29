@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Cookie&family=Kaushan+Script&family=Quicksand&family=Shadows+Into+Light&display=swap');
+body{
+    font-family: 'Quicksand', sans-serif;
+}
+/* Modify css Boostrap */
+.navbar-brand{
+    font-family: 'Cookie', cursive;
+    font-size: 30px;
+}
+.bg-yellow{
+    background-color: rgb(165, 149, 236); 
+}
+.psize{
+    height: 350px;
+    width: 300px;
+}
